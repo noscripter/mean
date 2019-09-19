@@ -45,7 +45,7 @@
     "debug": "^2.2.0",
     "express": "^4.14.0",
     "helmet": "^2.2.0",
-    "jasmine": "^2.5.2",
+    "jasmine": "^3.0.0",
     "lodash": "^4.16.4",
     "meanio": "~0.9.3",
     "meanio-admin": "git://github.com/linnovate/meanio-admin.git",
@@ -111,7 +111,6 @@
     "require-dir": "latest",
     "requirejs": "latest",
     "sass-loader": "^4.0.2",
-
     "style-loader": "^0.13.1",
     "supertest": "^2.0.1",
     "through": "^2.3.8",
@@ -121,7 +120,6 @@
     "webpack-dev-server": "^1.14.1",
     "webpack-hot-middleware": "^2.13.1",
     "webpack-stream": "^3.2.0"
-
   },
   "snyk": true
 }
